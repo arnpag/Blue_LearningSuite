@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{f8542369-b371-4e34-9828-30bd4c6e38a5}": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://example.com/learningsuite-1.0.xpi"
+        },
+      ]
+    }
+  }
+}

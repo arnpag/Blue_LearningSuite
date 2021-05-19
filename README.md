@@ -4,5 +4,5 @@ If you don't know what LearningSuite is this extension is not for you.
 
 Currently supported on Firefox.
 
-Download for Firefox here: [Version 1.0.1](https://github.com/arnpag/Blue_LearningSuite/blob/main/versions/learningsuite-1.-.1-fx.xpi?raw=true)
+Download for Firefox here: <a href="https://github.com/arnpag/Blue_LearningSuite/blob/main/versions/learningsuite-1.-.1-fx.xpi?raw=true" download>Version 1.0.1</a>
 

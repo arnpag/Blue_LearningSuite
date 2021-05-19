@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "1.0",
-          "update_link": "https://example.com/learningsuite-1.0.xpi"
+          "update_link": "https://github.com/arnpag/Blue_LearningSuite/blob/121fd6585fc5e5359d2fd95f71bd174805ec7a0b/learningsuite.xpi"
         },
       ]
     }

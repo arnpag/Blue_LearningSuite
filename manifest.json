@@ -1,0 +1,21 @@
+{
+
+  "manifest_version": 2,
+  "name": "Blue LearningSuite",
+  "version": "1.0",
+
+  "description": "Changes the tan sidebar of LearningSuite to blue.",
+
+  "permissions": [
+    "*://learningsuite.byu.edu/*",
+    "tabs"
+  ],
+
+  "icons": {
+    "48": "icons/icon-48.png"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

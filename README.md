@@ -10,5 +10,5 @@ Currently supported on Firefox and Chrome.
 ## To install on Firefox: ##
 1. Download the latest version: <a href="https://github.com/arnpag/Blue_LearningSuite/blob/main/versions/learningsuite-1.-.1-fx.xpi?raw=true" download="learningsuite-1.-.1-fx.xpi">Version 1.0.1</a>
 2. Go to your Firefox add-on settings (Ctrl/Cmd+Shift+A)
-3. Select the settings icon in the top, then "Install Add-on From File", or drag the file from your computer to anywhere on your page.
-4. Provide the downloaded file
+3. Select the settings icon in the top, then "Install Add-on From File", or drag the file from your computer to anywhere on the page.
+4. Provide the downloaded file and it will install
